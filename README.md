@@ -1,6 +1,6 @@
 
-# POQS
-This repo contains the code base for POQS, a small & simple little 2D shooter game developed with JavaScript & the KaBoom library where you shoot down enemies that come flying at you with various different guns, obtaining helpful, or sometimes unhelpful, abilities along the way!
+# P.O.Q.S
+This repo contains the code base for P.O.Q.S, a small & simple little 2D shooter game developed with JavaScript & the KaBoom library where you shoot down enemies that come flying at you with various different guns, obtaining helpful, or sometimes unhelpful, abilities along the way!
 Can you make it all the way to the secret final boss? How fast can you get to him? Figure out the best fusion of abilities and bullets to fight your way through!
 
 Play it here:
